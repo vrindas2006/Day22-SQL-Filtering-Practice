@@ -2,25 +2,30 @@
 
 ## Overview
 
-This project contains my SQL filtering practice completed using **MySQL Workbench** with the **Northwind database**.
+This project contains SQL filtering practice completed using **MySQL Workbench** and the **Northwind database**.
 
-The task focuses on retrieving specific records using different SQL filtering techniques.
+## Concepts Practiced
 
-## Objectives
+- WHERE
+- IN
+- BETWEEN
+- LIKE
 
-- Practice the `WHERE` clause
-- Use `IN` to filter multiple values
-- Use `BETWEEN` to filter values within a range
-- Use `LIKE` for pattern matching
-- Improve SQL query-writing and data-filtering skills
+## Tools & Technologies
 
-## SQL Concepts Practiced
+- MySQL
+- MySQL Workbench
+- Northwind Database
 
-### 1. WHERE
-Used to filter records based on a specific condition.
+## Objective
 
-Example:
-```sql
-SELECT *
-FROM customers
-WHERE country_region = 'USA';
+To practice SQL filtering techniques and retrieve specific records from database tables using different conditions and patterns.
+
+## Key Learning
+
+Improved understanding of SQL filtering, multiple-value selection, range-based filtering, and pattern matching.
+
+## Author
+
+**Vrinda S Nair**  
+BCA Student | Aspiring Data Analyst
